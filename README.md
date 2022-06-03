@@ -66,76 +66,74 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
 - [ ] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8-6: _[Projeto - Zoo functions]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 09: JavaScript e Testes Assíncronos
 
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
+- [ ] 9-3: _Jest - Testes Assíncronos_
+- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
 
-##### Bloco 10: Jest
+##### Bloco 10: Introdução à React
 
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [ ] 10-1: _'Hello, world!' no React!_
+- [ ] 10-2: _Componentes React_
+- [ ] 10-3: _[Projeto - Sistema Solar]()_
 
-##### Bloco 11: Introdução - React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
-
-##### Bloco 12: React
-
-- [ ] 12-1: _Components com estado_
+- [ ] 12-1: _Components com estado e eventos_
 - [ ] 12-2: _Eventos e formulários no React_
 - [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
-##### Bloco 13: React
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [ ] 13-1: _Ciclo de vida de componentes_
+- [ ] 13-2: _React Router_
+- [ ] 13-3: _[Projeto - TrybeTunes]()_
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis
 
 - [ ] 14-1: _Metodologias Ágeis_
 - [ ] 14-2: _[Projeto - Frontend Online Store]()_
 
-##### Bloco 15: Testes em React
+##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [ ] 15-1: _RTL - Primeiros passos_
+- [ ] 15-2: _RTL - Mocks e Inputs_
+- [ ] 15-3: _RTL - Testando React Router_
+- [ ] 15-4: _[Projeto - Testes em React]()_
 
-##### Bloco 16: Introdução ao Redux
+##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [ ] 16-1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] 16-2: _Usando o Redux no React_
+- [ ] 16-3: _Usando o Redux no React - Prática_
+- [ ] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 16-5: _Testes em React-Redux_
+- [ ] 16-6: _[Projeto - Trybe Wallet]()_
 
-##### Bloco 17: Projeto React
+##### Bloco 16: Projeto Jogo de Trivia
 
 - [ ] 17-1: _[Projeto - Jogo de Trivia]()_
 
-##### Bloco 18: React & Context API
+##### Bloco 17: Context API & React Hooks
 
 - [ ] 18-1: _Context API do React_
 - [ ] 18-2: _React Hooks - useState e useContext_
 - [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+##### Bloco 18: Projeto App de Receitas
+
+- [ ] 17-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -183,8 +181,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 24-1: _ORM - Interface da aplicação com o banco de dados_
 - [ ] 24-2: _ORM - Associations_
 - [ ] 24-3: _JWT - (JSON Web Token)_
-- [ ] 24-3: _Testando APIs com Testes de Integração_
-- [ ] 24-4: _[Projeto - API de Blogs]()_
+- [ ] 24-4: _Testando APIs com Testes de Integração_
+- [ ] 24-5: _[Projeto - API de Blogs]()_
 
 ##### Bloco 25: Deployment
 
@@ -216,10 +214,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 29-1: _MongoDB - Introdução_
 - [ ] 29-2: _Filter Operators_
-- [ ] 29-2: _Operadores de consulta_
-- [ ] 29-2: _Updates Simples_
-- [ ] 29-2: _Updates Complexos - Arrays_
-- [ ] 29-3: _[Projeto - Commerce]()_
+- [ ] 29-3: _Operadores de consulta_
+- [ ] 29-4: _Updates Simples_
+- [ ] 29-5: _Updates Complexos - Arrays_
+- [ ] 29-6: _[Projeto - Commerce]()_
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
